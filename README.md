@@ -45,7 +45,7 @@ The testing process includes both manual and automated testing, focused on full 
 - **Filtering Options** – Filter by opt-in/out, revenue, activity, and source  
 - **Import/Export** – CSV file operations for data management
 
-(See [`FEATURES.md`](Main Features/FEATURES.md) for more.)
+(See [`FEATURES.md`](Manual-automation--e-commerce/Main Features/FEATURES.md) for more.)
 
 ---
 
