@@ -45,7 +45,7 @@ The testing process includes both manual and automated testing, focused on full 
 - **Filtering Options** – Filter by opt-in/out, revenue, activity, and source  
 - **Import/Export** – CSV file operations for data management
 
-(See [`FEATURES.md`](docs/Main Features/FEATURES.md) for more.)
+(See [`FEATURES.md`](FEATURES.md) for more.)
 
 ---
 
@@ -84,7 +84,7 @@ The testing process includes both manual and automated testing, focused on full 
 | Medium    | Minor impact on non-core features            |
 | Low       | Cosmetic or low-priority UI issues           |
 
-Detailed bugs are documented in [`BUG_REPORT.md`](docs/BUG_REPORT.md)
+Detailed bugs are documented in [`BUG_REPORT.md`](BUG_REPORT.md)
 
 ---
 
